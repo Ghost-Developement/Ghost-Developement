@@ -1,34 +1,65 @@
-<h1 align="center">Hi 👋, I'm Project Revolution</h1>
-<h3 align="center">A passionate Bot/Game developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div align="center">
+      <a href="https://github.com/Ghost-Developement">
+        <img src="https://github.com/Ghost-Developement/.github/blob/master/images/Banner.png" />
+    </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Project1Revolution&label=Profile%20views&color=0e75b6&style=flat" alt="Project1Revolution" /> </p>
+# About Us
 
-- 🔭 I’m currently working on **Project Revolution**
-
-- 🌱 I’m currently learning **Coding**
-
-- 👯 I’m looking to collaborate on **Ghost Planet**
-
-- 🤝 I’m looking for help with **Rust**
-
-- 💬 Ask me about **Programmer, Developer**
-
-- ⚡ Fun fact **I think I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/itz_princeyt336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_princeyt336" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/i'm prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="i'm prince" height="30" width="40" /></a>
-<a href="https://discord.gg/mPNVYgcQzB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mPNVYgcQzB" height="30" width="40" /></a>
+This bot is a versatile Discord bot that can help you manage your Discord server with ease. Equipped with various features such as moderation management, tools, image manipulation, utility, and much more, this bot is designed to provide convenience and comfort in managing your Discord server. With user-friendly and customizable features, this bot will help you create a better user experience for your server members. Whether you're looking for a bot that can help you moderate your server, image manipulation, sticky messages, or even just for entertainment, this bot will meet your needs with its versatile features available.
+<p align="center">
+  <a href="https://github.com/Ghost-Developement#resource-links">Resource Links</a>
+  ◦
+  <a href="https://github.com/Ghost-Developement#commands">Commands</a>
+  ◦
+  <a href="https://github.com/Ghost-Developement#features">Features</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+# Resource Links
+- [Invite](https://top.gg/bot/850704166359531520)
+- [Support Server](https://discord.gg/Eeg4unAu6q)
+- [Terms of Service](https://github.com/Ghost-Developement/Terms-of-Service)
+- [Privacy Policy](https://github.com/Ghost-Developement/Privacy-Policy)
 
+# Commands
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Project1Revolution&show_icons=true&locale=en&layout=compact" alt="Project1Revolution" /></p>
+To view a list of all available commands, simply type `/help` in the chat. This will display a list of all the commands that you can use with this bot. From there, you can easily navigate and use the various commands to perform tasks such as image manipulation, sticky messages, managing server settings, and much more. So if you ever need to find a specific command or just want to explore all the different capabilities of this bot, just type `/` in the chat to get started.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Project1Revolution&show_icons=true&locale=en" alt="Project1Revolution" /></p>
+# Features
+- [x] 🕒 **Exceptional Uptime:** Enjoy the reliability of 99.94% uptime, ensuring Ghost Developement is always at your service.
+- [x] 🧩 **Slash Commands:** Simplify interactions with intuitive slash commands.
+- [x] 🎮 **Fun and Games:** Engage in thrilling minigames and enjoy creative image manipulation features with your friends.
+- [x] 📊 **Effortless Channel Management:** Seamlessly manage your channels for a smoother server experience.
+- [x] 🛡️ **Effective Moderation:** Maintain order in your server with our robust moderation tools that swiftly tackle rule violations.
+- [x] 🔧 **Setup Simplified:** Set up essential systems such as user reporting, suggestions, ghostping detection, and more with ease.
+- [x] 📌 **Sticky Messages with Impact:** Utilize sticky messages with modal views to effectively communicate channel topics and rules.
+- [x] 🔍 **Utility at Your Fingertips:** Access a suite of utility tools including search engines, reminders, and sourcebin/password generators.
+- [x] 🛠️ **Customizable Embeds:** Craft captivating messages with buttons, selections, and modals using our powerful embed builder.
+- [x] 📊 **Engage with Polls:** Create interactive polls with chart graphs to gather opinions and engage your community.
+- [x] 🧑‍🤝‍🧑 **Personalize User Profiles:** Elevate user engagement with custom badges and profile customization options.
+- [x] ⚔️ **Clan:** Manage clans with dedicated features.
+- [x] 🗒️ **Notepad:** Keep quick notes within Discord.
+- [x] 🤖 **Chatbot:** Interact with an AI-powered chatbot.
+- [x] 👋 **Welcomer System:** Make a lasting first impression with our brand-new Welcomer System! Greet new members with personalized welcome messages, ensuring they feel right at home from the moment they join.
+- [x] 🎈 **And More...**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Project1Revolution&" alt="Project1Revolution" /></p>
+--------
+<p align="center">
+  <i>Let Ghost Developement revolutionize your Discord experience today! Discover the power of seamless server management with a touch of fun and innovation.</i>
+</p>
+
+***
+<div align="center">
+  <a href="https://discords.com/bots/bots/850704166359531520">
+    <img src="https://discords.com/bots/api/bot/850704166359531520/widget">
+  </a>
+  <a href="https://top.gg/bot/850704166359531520">
+    <img src="https://top.gg/api/widget/850704166359531520.svg">
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/Ghost-Developement">
+    <img src="https://komarev.com/ghpvc/?username=Ghost-Developement&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="Ghost-Developement" />
+  </a>
+</p>
