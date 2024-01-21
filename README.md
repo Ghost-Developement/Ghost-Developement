@@ -1,6 +1,6 @@
 <div align="center">
-      <a href="https://github.com/UniverseBot">
-        <img src="https://github.com/UniverseBot/.github/blob/master/images/Banner.png" />
+      <a href="https://github.com/TheRexBot">
+        <img src="https://github.com/TheRexBot/TheRexBot/blob/main/image.png" />
     </a>
 </div>
 
@@ -9,18 +9,16 @@
 
 This bot is a versatile Discord bot that can help you manage your Discord server with ease. Equipped with various features such as moderation management, tools, image manipulation, utility, and much more, this bot is designed to provide convenience and comfort in managing your Discord server. With user-friendly and customizable features, this bot will help you create a better user experience for your server members. Whether you're looking for a bot that can help you moderate your server, image manipulation, sticky messages, or even just for entertainment, this bot will meet your needs with its versatile features available.
 <p align="center">
-  <a href="https://github.com/UniverseBot#resource-links">Resource Links</a>
+  <a href="https://github.com/TheRexBot#resource-links">Resource Links</a>
   ◦
-  <a href="https://github.com/UniverseBot#commands">Commands</a>
+  <a href="https://github.com/TheRexBot#commands">Commands</a>
   ◦
-  <a href="https://github.com/UniverseBot#features">Features</a>
+  <a href="https://github.com/TheRexBot#features">Features</a>
 </p>
 
 # Resource Links
-- [Invite](https://top.gg/bot/850704166359531520)
-- [Support Server](https://discord.gg/Eeg4unAu6q)
-- [Terms of Service](https://github.com/UniverseBot/Terms-of-Service)
-- [Privacy Policy](https://github.com/UniverseBot/Privacy-Policy)
+- [Terms of Service](https://github.com/TheRexBot/Terms-of-Service)
+- [Privacy Policy](https://github.com/TheRexBot/Privacy-Policy)
 
 # Commands
 
@@ -50,17 +48,8 @@ To view a list of all available commands, simply type `/help` in the chat. This 
 </p>
 
 ***
-<div align="center">
-  <a href="https://discords.com/bots/bots/850704166359531520">
-    <img src="https://discords.com/bots/api/bot/850704166359531520/widget">
-  </a>
-  <a href="https://top.gg/bot/850704166359531520">
-    <img src="https://top.gg/api/widget/850704166359531520.svg">
-  </a>
-</div>
-
 <p align="center">
-  <a href="https://github.com/UniverseBot">
-    <img src="https://komarev.com/ghpvc/?username=UniverseBot&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="UniverseBot" />
+  <a href="https://github.com/TheRexBot">
+    <img src="https://komarev.com/ghpvc/?username=TheRexBot&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="TheRexBot" />
   </a>
 </p>
