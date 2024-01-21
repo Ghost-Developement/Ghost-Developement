@@ -1,8 +1,9 @@
 <div align="center">
       <a href="https://github.com/UniverseBot">
-        <img src="[https://github.com/UniverseBot/.github/blob/master/images/Banner.pg" />
-    </a>n](https://media.discordapp.net/attachments/1192484150842757142/1198511706574422016/image.png?ex=65bf2c02&is=65acb702&hm=4ef5173ef766fa87bfcb805b1b59ee68d54eafc86d965a197e75289ec41224ee&=&format=webp&quality=lossless)
+        <img src="https://github.com/UniverseBot/.github/blob/master/images/Banner.png" />
+    </a>
 </div>
+
 
 # About Us
 
